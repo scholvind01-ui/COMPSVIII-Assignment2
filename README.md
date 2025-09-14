@@ -87,3 +87,5 @@ This project is for educational purposes.
 ---
 
 *Built with ❤️ by the TechFlow Solutions team*
+## TechFlow Solutions Website 
+[![Deploy to GitHub Pages](https://github.com/scholvind01-ui/COMPSVIII-Assignment2/actions/workflows/deploy.yml/badge.svg)](https://github.com/scholvind01-ui/COMPSVIII-Assignment2/actions/workflows/deploy.yml)
